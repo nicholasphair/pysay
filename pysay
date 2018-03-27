@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Yep. Make the cow udder (pun intended) the Zen of Python.
+python -c 'import this' | cowsay
